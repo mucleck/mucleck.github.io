@@ -14,7 +14,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Aprendiendo # the main title
+title: Apuntes de un estudiante de ASIR # the main title
 
 tagline: Bienvenido a mis apuntes! # it will display as the sub-title
 
@@ -22,13 +22,13 @@ description: >- # used by seo meta and the atom feed
   League of Legends
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://mucleck.github.io"
 
 github:
   username: mucleck # change to your github username
 
 twitter:
-  username:  # change to your twitter username
+  username: pambolidemyke # change to your twitter username
 
 social:
   # Change to your full name.
@@ -37,7 +37,7 @@ social:
   email: franconogalesali@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/pambolidemyke # change to your twitter homepage
     - https://github.com/mucleck # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -95,7 +95,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pbs.twimg.com/profile_images/1794557912808927232/2FdmVtMG_400x400.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

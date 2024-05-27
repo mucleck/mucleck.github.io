@@ -5,7 +5,7 @@ categories: []
 tags: []
 ---
 
- ## ¡Hola a todos!
+ ## Hola a todos!
 
 Soy Ali Franco Nogales, estudiante de ASIR (Administración de Sistemas Informáticos en Red) con una gran pasión por la ciberseguridad. Este blog nace como un espacio personal donde compartiré mis apuntes y experiencias a lo largo del curso. Aquí iré detallando todo lo que aprendo, desde la configuración de redes hasta la administración de servidores.
 

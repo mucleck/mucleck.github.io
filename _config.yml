@@ -14,12 +14,12 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Apuntes de un estudiante de ASIR # the main title
+title: Blog de Ali # the main title
 
-tagline: Bienvenido a mis apuntes! # it will display as the sub-title
+tagline: Bienvenido a mis writeups y apuntes! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  League of Legends
+ 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://mucleck.github.io"
@@ -28,7 +28,7 @@ github:
   username: mucleck # change to your github username
 
 twitter:
-  username: pambolidemyke # change to your twitter username
+  username: x # change to your twitter username
 
 social:
   # Change to your full name.
@@ -37,7 +37,7 @@ social:
   email: franconogalesali@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/pambolidemyke # change to your twitter homepage
+    - https://twitter.com/x # change to your twitter homepage
     - https://github.com/mucleck # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username

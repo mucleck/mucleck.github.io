@@ -1,6 +1,6 @@
 {
-  "name": "My New Hugo Project",
-  "short_name": "My New Hugo Project",
+  "name": "Un blog menos",
+  "short_name": "Un blog menos",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

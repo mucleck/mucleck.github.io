@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>My New Hugo Project</title>
+		<title>Un blog menos</title>
 		<link>http://localhost:1313/</link>
-		<description>Recent content on My New Hugo Project</description>
+		<description>Recent content on Un blog menos</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
+			<lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
+		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Renderizando 8 millones de pixeles en 130ms</title>
+				<link>http://localhost:1313/posts/post1/</link>
+				<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/post1/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;thumbnail.png&#34; alt=&#34;mandelbrot&#34; /&gt;&#xA;TL;DR Decide como paralelizar el trabajo, paraleliza, utiliza algun truco con la compresion de la imagen y usa blanco y negro en vez de RGBA&lt;/p&gt;&#xA;&lt;h2 id=&#34;que-es-el-set-de-mandelbrot&#34;&gt;¿Que es el set de Mandelbrot?&lt;a class=&#34;anchor&#34; href=&#34;#que-es-el-set-de-mandelbrot&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Este es un fractal bastante conocido pero por si no lo conoces te dejo algunos links donde se explica muy bien que es y algunas curiosidades:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=FFftmWSzgmk&amp;amp;pp=ygUabWFuZGVsYnJvdCBzZXQgbWF0aCB2aWRlb3M%3D&#34;&gt;Numberphile&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://youtu.be/Ed1gsyxxwM0?si=FscwFbeNGuY4C63k&#34;&gt;swap2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=4LQvjSf6SSw&amp;amp;t=541s&amp;amp;pp=ygUabWFuZGVsYnJvdCBzZXQgbWF0aCB2aWRlb3M%3D&#34;&gt;Numberphile + Dr Holly Krieger&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;En pocas palabrasla imagen que ves es la representacion de aplicar de manera iterativa la funcion f(z) = z*z + c a todos los pixeles de un plano en el que representamos los numeros &amp;ldquo;normales&amp;rdquo; en el eje X y los imaginarios en el eje Y. El color que cada pixel tiene se decide por cuantas iteraciones tarda f(z) en superar un valor numerico que decidamos (-I en mi codigo por ejemplo1) ,o si tenemos suerte, el valor super rapidamente el valor 4. Si no se ha entendido, mira los videos que se explican mucho mejor que yo.&lt;/p&gt;</description>
+			</item>
 	</channel>
 </rss>
